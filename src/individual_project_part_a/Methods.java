@@ -12,7 +12,6 @@ import java.time.format.DateTimeParseException;
 import java.time.temporal.TemporalField;
 import java.time.temporal.WeekFields;
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.HashSet;
 import java.util.InputMismatchException;
 import java.util.Iterator;
@@ -469,6 +468,7 @@ public class Methods {
         Student student5 = new Student("stamatis", "Spanoudakis", "02-07-1997", 1000.00);
         Trainer trainer1 = new Trainer("Michalis", "Ignatiou", "OOP");
         Trainer trainer2 = new Trainer("Kostas", "Spyridis", "Intro");
+        Trainer trainer3 = new Trainer("Vasilis", "Papamarkos", "GIT");
         Assigment individualProject1 = new Assigment("First Individual Assigment", "Private Scool", "14-02-2019");
         Assigment individualProject2 = new Assigment("Second Individual Assigment", "Bank", "31-03-2019");
         Assigment finalProject = new Assigment("Final Individual Assigment", "Application", "16-04-2019");
