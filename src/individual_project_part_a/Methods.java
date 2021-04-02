@@ -469,6 +469,7 @@ public class Methods {
         Trainer trainer1 = new Trainer("Michalis", "Ignatiou", "OOP");
         Trainer trainer2 = new Trainer("Kostas", "Spyridis", "Intro");
         Trainer trainer3 = new Trainer("Vasilis", "Papamarkos", "GIT");
+        Trainer trainer4 = new Trainer("Vasilis", "Leontarakis", "DTS");
         Assigment individualProject1 = new Assigment("First Individual Assigment", "Private Scool", "14-02-2019");
         Assigment individualProject2 = new Assigment("Second Individual Assigment", "Bank", "31-03-2019");
         Assigment finalProject = new Assigment("Final Individual Assigment", "Application", "16-04-2019");
